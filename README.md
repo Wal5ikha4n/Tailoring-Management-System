@@ -23,7 +23,7 @@ A modern Tailoring Management System built with PHP &amp; MySQL for managing cus
 
 ## Invoice
 
-![Invoice](screenshots/invoice.png)
+![Invoice](screenshots/invoices.png)
 
 ## Invoice Example
 
