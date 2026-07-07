@@ -21,6 +21,10 @@ A modern Tailoring Management System built with PHP &amp; MySQL for managing cus
 
 ![Orders](screenshots/orders.png)
 
+## Measure
+
+![Orders](screenshots/measure.png)
+
 ## Invoice
 
 ![Invoice](screenshots/invoices.png)
